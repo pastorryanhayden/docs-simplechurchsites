@@ -1,7 +1,10 @@
 ---
-date:
+date: 2017-07-08 00:00:00
 title: Adding Requests
 categories:
-description:
+  - Prayer
+description: How to add requests in Prayer
 type: Document
 ---
+
+
