@@ -1,12 +1,16 @@
 ---
-date:
+date: 2017-07-08 00:00:00
 title: Prayer Handout Style
 categories:
-description:
+  - Prayer
+  - Settings
+  - Setup
+description: How to change handout style for prayer
 type: Document
 ---
 
-We offer three styles of handouts:  
+
+We offer three styles of handouts:
 
 * **Half letter** prints two handouts on a letter sized piece of paper and is probably enough for most churches.
 * * **Letter** if you have more prayer requests, you may want to choose letter, which will take up an entire sheet of paper and give you lots of room for requests.
