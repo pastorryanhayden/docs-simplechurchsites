@@ -10,6 +10,8 @@ type: Document
 ---
 
 
+You can change the Handout style for prayer in the prayer settings. (Either click the gear icon in the tool list or choose settings from the prayer toolbar.)
+
 We offer three styles of handouts:
 
 * **Half letter** prints two handouts on a letter sized piece of paper and is probably enough for most churches.
