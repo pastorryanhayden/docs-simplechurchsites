@@ -10,6 +10,8 @@ type: Document
 ---
 
 
+You can change the categories for prayer in the prayer settings. (Either click the gear icon in the tool list or choose settings from the prayer toolbar.)
+
 We use these categories in my church:
 
 * Health Needs
@@ -18,4 +20,4 @@ We use these categories in my church:
 * Spiritual
 * Other
 
-But you can use any categories you like.  You can also rearrange the categories using the arrows and that is the order they will show up on on your handout.
+But you can use any categories you like. You can also **rearrange the categories** using the arrows and that is the order they will show up on on your handout.
